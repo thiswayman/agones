@@ -5,7 +5,7 @@
     },
     "dependencies": {
         "@grpc/grpc-js": "1.5.4",
-        "google-protobuf": "3.19.4"
+        "google-protobuf": "3.21.4"
     },
     "description": "Game Server SDK for Agones, the open source project for hosting dedicated game servers on Kubernetes",
     "devDependencies": {
